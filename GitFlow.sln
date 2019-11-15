@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitFlow", "GitFlow\GitFlow.csproj", "{3AF4302D-ACBC-48B8-B964-A76187DA5B3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3AF4302D-ACBC-48B8-B964-A76187DA5B3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AF4302D-ACBC-48B8-B964-A76187DA5B3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AF4302D-ACBC-48B8-B964-A76187DA5B3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AF4302D-ACBC-48B8-B964-A76187DA5B3A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {523255BD-42AA-447F-8866-9CB14D94D67C}
+	EndGlobalSection
+EndGlobal
